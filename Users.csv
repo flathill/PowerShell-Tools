@@ -1,5 +1,5 @@
 UserPrincipalName,JobTitle,Department,Password
-user1@example.com,sales,com,password
-user2@example.com,marketing,com,password
-user1@example.org,sales,org,password
-user2@example.org,marketing,org,password
+user1@example.com,sales,sales,password
+user2@example.com,marketing,marketing,password
+user1@example.org,sales,sales,password
+user2@example.org,marketing,marketing,password
